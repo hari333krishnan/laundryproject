@@ -4,4 +4,4 @@
 ## If customers wants to use the services , Customers can register their deatails using this website.
 
 ## After registrations company staffs will contact you for further steps.
-### Technologies used are Djamgo, Sqlite3 ,Html and CSS
+### Technologies used are Djngo, SQLite3 ,HTML and CSS
