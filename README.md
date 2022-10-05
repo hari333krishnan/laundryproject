@@ -10,7 +10,7 @@
 ## If customers wants to use the services , Customers can register their deatails using this website.
 ![register](https://user-images.githubusercontent.com/113285751/194000554-81545d42-784d-4f09-beee-541241c70d2b.png)
 ## After registrations company staffs will contact you for further steps.
-### Technologies used are Django, SQLite3 ,HTML and CSS
+### Technologies used : Django, SQLite3 ,HTML and CSS
 
 
 
